@@ -1,4 +1,4 @@
-# Algorithms
+# Convert Maze into tree and find the shortest path using Dijkstra and Bellman Ford Algorithms.
 
 This project contains following:
 1. Convert the Maze into a tree
