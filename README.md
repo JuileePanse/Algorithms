@@ -1,7 +1,8 @@
 
-<img src="https://github.com/JuileePanse/Algorithms/blob/master/maze_5.jpg">
 
 # Convert Maze into tree and find the shortest path using Dijkstra and Bellman Ford Algorithms.
+
+<img src="https://github.com/JuileePanse/Algorithms/blob/master/maze_5.jpg">
 
 This project contains following:
 1. Convert the Maze into a tree
